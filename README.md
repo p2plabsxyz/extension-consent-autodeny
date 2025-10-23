@@ -1,6 +1,6 @@
 # Consent Blocker
 
-Stripped down from the [Consent-O-Matic extension](https://github.com/cavi-au/Consent-O-Matic) to work for the [//agregore.mauve.moe](Agregore Web Browser).
+Stripped down from the [Consent-O-Matic extension](https://github.com/cavi-au/Consent-O-Matic) to work for the [//peersky.p2plabs.xyz/](Peersky Browser).
 
 Changes:
 - Removed browser action
@@ -51,7 +51,7 @@ Changes:
 ## Building from Source
 
 ```
-git clone git@github.com:AgregoreWeb/extension-consent-autodeny.git
+git clone git@github.com:p2plabsxyz/extension-consent-autodeny.git
 cd extension-consent-autodeny
 npm install
 ```
