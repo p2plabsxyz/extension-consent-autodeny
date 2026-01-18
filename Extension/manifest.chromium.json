@@ -1,8 +1,8 @@
 {
 	"name": "Consent Autoblock",
 	"description": "Automatic blocking of GDPR consent forms",
-	"author": "CAVI - Aarhus University, forked by Agregore Team",
-	"homepage_url": "https://github.com/AgregoreWeb/extension-consent-autodeny",
+	"author": "CAVI - Aarhus University, forked by p2plabsxyz",
+	"homepage_url": "https://github.com/p2plabsxyz/extension-consent-autodeny",
 	"version": "REPLACED_BY_BUILD_SCRIPT",
 	"manifest_version": 3,
 	"permissions": [
